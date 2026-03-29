@@ -30,7 +30,7 @@ This project builds a regression model to estimate used car prices based on feat
 ![Prediction](Scatter.png)
 
 ### 📉 RMSE Comparison
-![RMSE](rmse.png)
+![RMSE](rsme.png)
 
 ### 📊 R² Comparison
 ![R2](r2.png)
